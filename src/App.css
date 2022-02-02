@@ -1,4 +1,18 @@
+body {
+  background-color: black;
+}
+
+h2 {
+  color: white;
+  font-family: sans-serif;
+}
+
 .logo {
   width: 100px;
   height: 100px;
+}
+
+.images {
+  display: flex;
+  overflow-x: auto;
 }
